@@ -1,0 +1,40 @@
+html {
+    background-color: #232323;
+}
+div {
+    height: 1000px;
+    line-height: 100px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+#Clock{
+    max-width: 700px;
+    width: 100%;
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffff;
+    font-size: 50px;
+}
+#loadstring-pre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffff;
+}
+#Text {
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffff;
+    font-size: 50px;
+}
+pre code {
+    background-color: #2d2d2d;
+    border: 1px solid #323232;
+    display: block;
+    padding: 20px;
+  }
