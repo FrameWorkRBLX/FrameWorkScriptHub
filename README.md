@@ -11,6 +11,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FrameWorkRBLX/FrameWo
 ```
 
 Run the code above
+
+Current version is 0.2
 ## Demo
 
 Insert gif or link to demo
