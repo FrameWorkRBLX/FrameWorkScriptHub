@@ -1,13 +1,8 @@
 
-# FrameWorkScriptHub
+# FrameWorkScriptHub Pages
 
-A script hub for roblox exploiters.
-
-How to use it?
+The github branch for the website
 
 
-```lua 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FrameWorkRBLX/FrameWorkScriptHub/main/Main", true))()
-```
 
-Run the code above
+Check it now!
