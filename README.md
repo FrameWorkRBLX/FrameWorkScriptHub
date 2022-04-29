@@ -15,8 +15,6 @@ Run the code above
 Current version is 0.2
 ## Demo
 
-Insert gif or link to demo
-
 ![Logo](https://github.com/FrameWorkRBLX/FrameWorkScriptHub/raw/main/icons/pic1.png)
 
 ![Logo](https://github.com/FrameWorkRBLX/FrameWorkScriptHub/raw/main/icons/pic2.png)
