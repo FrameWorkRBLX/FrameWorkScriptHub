@@ -7,7 +7,7 @@ How to use it?
 
 
 ``` lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FrameWorkRBLX/FrameWorkScriptHub/main/Main", true))() 
+--TAKEN DOWN
 ```
 
 Run the code above
