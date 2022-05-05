@@ -1,6 +1,8 @@
 
 # FrameWorkScriptHub
 
+# NOTE - THIS REPO IS READ ONLY UNTIL WE FIND A BETTER OBFUSCATOR
+
 A script hub for roblox exploiters.
 
 How to use it?
